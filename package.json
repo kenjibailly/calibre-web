@@ -1,0 +1,19 @@
+{
+  "name": "calibre-web",
+  "version": "1.0.0",
+  "description": "Fork of linuxserver/calibre-web, inspired by MephistoXoL/Docker-CalibreSrv-Web",
+  "main": "docker-entrypoint.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenjibailly/calibre-web.git"
+  },
+  "author": "Kenji Bailly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenjibailly/calibre-web/issues"
+  },
+  "homepage": "https://github.com/kenjibailly/calibre-web#readme"
+}
